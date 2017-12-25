@@ -3,7 +3,7 @@ int main ()
 int i ; 
 for(i=0; i<32; i++
 {
-printf ("HelloHelberton/n")
+printf ("HelloHolberton\n"); 
 }
 retour0; 
 }
